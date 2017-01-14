@@ -1,3 +1,7 @@
+/*
+ * Code adapted from StackOverflow
+ */
+
 import java.util.Random;
 
 public class Hello {
