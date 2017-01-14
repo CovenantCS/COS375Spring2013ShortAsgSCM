@@ -5,7 +5,7 @@ public class Hello {
         StringBuilder sb = new StringBuilder();
         sb.append(capitalizeString(randomString(-229985452)));
         sb.append(" ");
-        sb.append(capitalizeString(randomString(-147909649)));
+        sb.append("Josh Humpherys");
         System.out.println(sb.toString());
     }
 
